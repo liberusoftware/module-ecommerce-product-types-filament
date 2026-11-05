@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-types-filament",
+  "capabilityKey": "planned:ecommerce:product-types",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-product-types-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-types.md",
+  "presentationPlan": "projects/ecommerce/filament/product-types.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
